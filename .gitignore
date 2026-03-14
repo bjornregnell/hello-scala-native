@@ -5,3 +5,4 @@ target
 .bloop
 **/*.class
 .scala-build
+hello
